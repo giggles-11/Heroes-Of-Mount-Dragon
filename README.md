@@ -201,3 +201,6 @@ This repository serves as the official landing page for Heroes of Mount Dragon. 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Heroes of Mount Dragon today!**
+
+---
+**Last updated:** 2026-11-07 06:48:58 UTC
