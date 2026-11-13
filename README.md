@@ -203,4 +203,4 @@ This repository serves as the official landing page for Heroes of Mount Dragon. 
 **Get the most recent version of Heroes of Mount Dragon today!**
 
 ---
-**Last updated:** 2026-11-13 12:53:04 UTC
+**Last updated:** 2026-11-13 20:18:22 UTC
